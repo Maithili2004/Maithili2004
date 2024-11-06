@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Maithili Padmakar Chavan</h1>
 <h3 align="center">A passionate IT Engineering Student from India</h3>
 
-- 🌱 I’m currently learning **Javascript**
+- 🌱 I’m currently learning **Node.js**
 
 - 🤝 I’m looking for help with **Frontend Development**
 
