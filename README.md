@@ -5,7 +5,7 @@
 
 - 🤝 I’m looking for help with **Frontend Development**
 
-- 👨‍💻 Know more about me at  [my website](mywebsite)
+- 👨‍💻 Know more about me at  [my website](https://maithili2004.github.io/Portfolio/)
 
 - 📫 How to reach me **maithilichavan582@gmail.com**
 
