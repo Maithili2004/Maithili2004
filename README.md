@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **maithilichavan582@gmail.com**
 
-- 📄 Know about my experiences: [resume](resume)
+- 📄 Know about my experiences: [resume](https://maithili2004.github.io/Portfolio/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
